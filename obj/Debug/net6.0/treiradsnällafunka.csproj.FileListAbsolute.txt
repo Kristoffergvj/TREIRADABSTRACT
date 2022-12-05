@@ -1,0 +1,15 @@
+/Users/kristofferjonsson/Projects/treiradsnällafunka/treiradsnällafunka/obj/Debug/net6.0/treiradsnällafunka.csproj.AssemblyReference.cache
+/Users/kristofferjonsson/Projects/treiradsnällafunka/treiradsnällafunka/obj/Debug/net6.0/treiradsnällafunka.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristofferjonsson/Projects/treiradsnällafunka/treiradsnällafunka/obj/Debug/net6.0/treiradsnällafunka.AssemblyInfoInputs.cache
+/Users/kristofferjonsson/Projects/treiradsnällafunka/treiradsnällafunka/obj/Debug/net6.0/treiradsnällafunka.AssemblyInfo.cs
+/Users/kristofferjonsson/Projects/treiradsnällafunka/treiradsnällafunka/obj/Debug/net6.0/treiradsnällafunka.csproj.CoreCompileInputs.cache
+/Users/kristofferjonsson/Projects/treiradsnällafunka/treiradsnällafunka/bin/Debug/net6.0/treiradsnällafunka
+/Users/kristofferjonsson/Projects/treiradsnällafunka/treiradsnällafunka/bin/Debug/net6.0/treiradsnällafunka.deps.json
+/Users/kristofferjonsson/Projects/treiradsnällafunka/treiradsnällafunka/bin/Debug/net6.0/treiradsnällafunka.runtimeconfig.json
+/Users/kristofferjonsson/Projects/treiradsnällafunka/treiradsnällafunka/bin/Debug/net6.0/treiradsnällafunka.dll
+/Users/kristofferjonsson/Projects/treiradsnällafunka/treiradsnällafunka/bin/Debug/net6.0/treiradsnällafunka.pdb
+/Users/kristofferjonsson/Projects/treiradsnällafunka/treiradsnällafunka/obj/Debug/net6.0/treiradsnällafunka.dll
+/Users/kristofferjonsson/Projects/treiradsnällafunka/treiradsnällafunka/obj/Debug/net6.0/refint/treiradsnällafunka.dll
+/Users/kristofferjonsson/Projects/treiradsnällafunka/treiradsnällafunka/obj/Debug/net6.0/treiradsnällafunka.pdb
+/Users/kristofferjonsson/Projects/treiradsnällafunka/treiradsnällafunka/obj/Debug/net6.0/treiradsnällafunka.genruntimeconfig.cache
+/Users/kristofferjonsson/Projects/treiradsnällafunka/treiradsnällafunka/obj/Debug/net6.0/ref/treiradsnällafunka.dll
